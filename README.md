@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Luka K.
-- 🌱 I’m currently learning Codeacademy. 
+- 🌱 I’m currently learning full stack web development through Codeacademy. 
 - 💞️ Im currently collaborating with a senior front end react dev who is teaching me the lifecycle of a project. 
-- 📫 How to reach me? Well you can message me on twitter as thats probably the only social ill put on here @_Kapza
+- 📫 How to reach me? Only through email. lukakapetanovic@icloud.com
 
 <!---
 Kapza94/Kapza94 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
