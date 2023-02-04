@@ -1,7 +1,6 @@
-- 👋 Hi, I’m Luka
-- 👀 I’m interested in learning to code.
-- 🌱 I’m currently learning through CS50 and The Odin Project and through other internet sources. 
-- 💞️ I’m looking to collaborate on, Nothing much since im still new but i may ask for some help at some point.
+- 👋 Hi, I’m Luka K.
+- 🌱 I’m currently learning Codeacademy. 
+- 💞️ Im currently collaborating with a senior front end react dev who is teaching me the lifecycle of a project. 
 - 📫 How to reach me? Well you can message me on twitter as thats probably the only social ill put on here @_Kapza
 
 <!---
