@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Luka K.
 - 🌱 I’m currently learning full stack web development through Codeacademy. 
-- 💞️ Im currently collaborating with a senior front end react dev who is teaching me the lifecycle of a project. 
+- 💞️ Im currently collaborating with a senior full stack react dev who is teaching me the lifecycle of a project. 
 - 📫 How to reach me? Only through email. lukakapetanovic@icloud.com
 
 <!---
