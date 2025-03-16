@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Luka K.
 - 🌱 I’m currently learning full stack web development.
 - 💾 Im also tracking my journey of learning on youtube check it out. https://www.youtube.com/channel/UC3GVws4tbds0DGwwr0Ytl_A?sub_confirmation=1
-- 💞️ Im currently collaborating with a senior full stack react dev who is teaching me the lifecycle of a project. 
+- 💞️ Im currently collaborating with a senior full stack react dev who so happens to be my fiance. 
 - 📫 How to reach me? Only through email. lukakapetanovic@icloud.com
 
 <!---
